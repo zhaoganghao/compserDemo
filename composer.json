@@ -1,0 +1,21 @@
+{
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+
+    "name": "zhaogang/compserDemo",
+    "authors": [
+        {
+            "name": "Ying Peng",
+            "email": "a249994417@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "zhaogang\\Cp\\": "src"
+        }
+    },
+	"require": {
+        "monolog/monolog": "1.2.*"
+    }
+  
+}
